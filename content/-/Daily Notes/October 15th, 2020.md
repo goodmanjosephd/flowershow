@@ -1,0 +1,1 @@
+- https://medium.com/the-post-grad-survival-guide/what-the-hell-is-life-purpose-really-8e7d3d05c483?source=linkShare-af913f17e0a2-1547288227&_branch_match_id=845291042523715868 #[[Life Questions]]
