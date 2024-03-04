@@ -1,0 +1,34 @@
+<%*
+const currentMoment = moment(tp.file.title, "YYYY");
+const hash = '# ';
+const slash = ' / ';
+const pipe = ' | ';
+const leftAngle = '❮ ';
+const rightAngle = ' ❯';
+tR += leftAngle;
+tR += '[[' + currentMoment.format('YYYY') + ']]';
+tR += rightAngle;
+tR += '\n';
+tR += '\n';
+tR += leftAngle;
+currentMoment.add(-1,'years');
+tR += '[[' + currentMoment.format('YYYY') + ']]' + pipe;
+currentMoment.add(1,'years');
+tR += currentMoment.format('YYYY') + pipe;
+currentMoment.add(1,'years');
+tR += '[[' + currentMoment.format('YYYY') + ']]';
+currentMoment.add(-1,'years');
+tR += rightAngle;
+tR += '\n';
+tR += '\n';
+tR += leftAngle;
+tR += '[[' + currentMoment.format('YYYY-[Q]Q|[Q]Q') + ']]' + pipe;
+currentMoment.add(1,'quarters');
+tR += '[[' + currentMoment.format('YYYY-[Q]Q|[Q]Q') + ']]' + pipe;
+currentMoment.add(1,'quarters');
+tR += '[[' + currentMoment.format('YYYY-[Q]Q|[Q]Q') + ']]' + pipe;
+currentMoment.add(1,'quarters');
+tR += '[[' + currentMoment.format('YYYY-[Q]Q|[Q]Q') + ']]';
+currentMoment.add(1,'quarters');
+tR += rightAngle;
+%>
