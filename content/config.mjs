@@ -16,11 +16,6 @@ const config = {
     colorScheme: "light", // Or 'dark' if you prefer a dark theme.
     fontFamily: "Arial, sans-serif",
   },
-  social: {
-    twitter: "https://twitter.com/yourusername",
-    github: "https://github.com/yourgithubusername",
-    linkedin: "https://www.linkedin.com/in/yourlinkedinprofile/",
-  },
 };
 
 export default config;
