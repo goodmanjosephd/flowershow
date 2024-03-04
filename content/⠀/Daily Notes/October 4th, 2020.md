@@ -1,8 +1,0 @@
-- Blog posts
-    - 30 days of journaling
-    - The current eureka I'm going through - focusing on one thing isn't for everyone, some people, especially younger ones, need time to explore, taste shit, explore natural curiosities. You'll eventually niche down based on the things that you love most and continually gravitate towards. document your experience. Look for underlying themes
-    - How to ask for help, and why it's so important
-- In giving everything up, we find our way [[Ideas]]
-- Want to use Roam as my distraction journal
-- Course teaching people how to build a business around the topic/thing they love the most [[Business Ideas]]
-- 
