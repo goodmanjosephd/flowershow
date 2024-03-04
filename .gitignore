@@ -8,3 +8,8 @@ out/
 tsconfig.tsbuildinfo
 .vscode/
 .idea/
+.canvas
+-/
+2024/
+planning/
+canvas/
