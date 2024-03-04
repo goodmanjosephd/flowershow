@@ -1,0 +1,11 @@
+- Daily
+    - [[Morning Pages]] {{word-count}}
+        - Good morning! Feeling a bit overwhelmed recently with all of the things that I want to do. Honestly I just need to spend a bit more time figuring out the next steps, roadmaps, stuff like that. Maybe taking action at work and getting some stuff done there would help. If I can free up more time to spend intentionally, I think that'd be really great. 
+        - 12:41 - currently lunch time and I'm tired but want to journal more
+            - Maybe instead I should get some coffee... okay, 10 mins of journaling and then I'll go get some coffee. Today has been a curveball day since I've had some hiccupps with work. I messed some stuff up, but luckily I'm in the process of fixing it . I'm also almost done with HT content for last week (haha), so luckily I'll be able to get out 2 batches this week if I work really hard. 
+            - On the topic of non work stuff, i haven't really made any progress on the things that I want to do, such as posting more on automate notion, or creating content for my personal blog. Part of me feels the need to procraastinate and work on my web design, or stuff like that. Maybe I should build out a list of thjings that I could do for both of those projects. Those two things are what I want to get more serirous about. I can turn some of my past tweets into blog posts, I should start out with figuring out all of the things that I want to blog about. 
+        - I spend all day waiting for the moment that I get done with work, the time where I can finally work on my dream. But then when I sit down to work on it, I just sit there staring at my computer not knowing what to do. It feels really bad because I have all of this anticipation and excitement. If I can make good use of the little time I have, how am i going to make a difference? If I don't build andything, how can I get any closer to my goals? But at the same time, I need to 
+    - To-dos
+        - {{[[TODO]]}} Daily Highlight - 
+    - Ideas & Notes
+        - 
