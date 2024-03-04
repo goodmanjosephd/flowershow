@@ -12,8 +12,7 @@ const config = {
     text: "Jane's Portfolio",
     logo: "/images/navbar-logo.svg",
   },
-  editLinkRoot: "https://github.com/yourgithubusername/yourrepositoryname/edit/main/content",
-  showComments: true, // Enable or disable comments site-wide.
+  showComments: false, // Enable or disable comments site-wide.
   analyticsConfig: {
     googleAnalyticsKey: "UA-XXXXX-Y",
   },
@@ -21,12 +20,6 @@ const config = {
     colorScheme: "light", // Or 'dark' if you prefer a dark theme.
     fontFamily: "Arial, sans-serif",
   },
-  navLinks: [
-    { href: "/about", name: "About" },
-    { href: "/portfolio", name: "Portfolio" },
-    { href: "/blog", name: "Blog" },
-    { href: "/contact", name: "Contact" },
-  ],
   social: {
     twitter: "https://twitter.com/yourusername",
     github: "https://github.com/yourgithubusername",
