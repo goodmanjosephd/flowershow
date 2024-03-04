@@ -20,8 +20,7 @@ const config = {
   // /content dir should be a symlink to that directory
   content: "content",
   avatarPlaceholder: "/_flowershow/avatarplaceholder.png",
-  contentExclude: [],
-  contentInclude: [],
+  contentExclude: [/⠀/,/2024/, /planning/],
   blogDir: "blog",
   peopleDir: "people",
   // Theme
