@@ -1,0 +1,10 @@
+- Journal
+    - Got the vaccine yesterday, feeling pretty gross today
+- Ideas
+    - Implementation Actions
+        - Plan for failures and setback and have a system that becomes automatic
+- Content
+    - [[What Gets Measured Gets Managed]]
+        - #[[Action Items]] Do weekly reviews in my journal or roam, and do public monthly reviews
+- Shared
+    - 
