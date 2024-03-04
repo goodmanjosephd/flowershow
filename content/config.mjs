@@ -3,19 +3,34 @@
  */
 
 const config = {
-  title: "Joe's Notes",
-  description: "A beautiful site created with Flowershow, showcasing my portfolio.",
+  title: "Joe's Musings",
+  description: "",
+  showEditLink: false,
+  showToc: true,
+  showSidebar: true,
+  showLinkPreviews: true,
   author: "Joe",
-  domain: "https://notes.joesmusings.com",
-  navbarTitle: {
-    text: "Jane's Portfolio",
-    logo: "/images/navbar-logo.svg",
-  },
-  showComments: true, // Enable or disable comments site-wide.
+  domain: "notes.joesmusings.com",
+  // Google analytics key e.g. G-XXXX
+  analytics: "G-JBTN66TFEH",
+  // content source directory for markdown files
+  // DO NOT CHANGE THIS VALUE
+  // if you have your notes in another (external) directory,
+  // /content dir should be a symlink to that directory
+  content: "content",
+  avatarPlaceholder: "/_flowershow/avatarplaceholder.png",
+  contentExclude: [],
+  contentInclude: [],
+  blogDir: "blog",
+  peopleDir: "people",
+  // Theme
   theme: {
-    colorScheme: "light", // Or 'dark' if you prefer a dark theme.
-    fontFamily: "Arial, sans-serif",
+    default: "dark",
+    toggleIcon: "/_flowershow/theme-button.svg",
   },
+  navLinks: [
+    // { href: '/about', name: 'About' },
+  ],
 };
 
 export default config;
