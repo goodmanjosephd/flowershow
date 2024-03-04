@@ -10,7 +10,7 @@ const config = {
   showSidebar: true,
   showLinkPreviews: true,
   author: "Joe",
-  domain: "notes.joesmusings.com",
+  domain: "https://joesmusings.com",
   // Google analytics key e.g. G-XXXX
   analytics: "G-JBTN66TFEH",
   // content source directory for markdown files
@@ -29,7 +29,8 @@ const config = {
     toggleIcon: "/_flowershow/theme-button.svg",
   },
   navLinks: [
-    // { href: '/about', name: 'About' },
+    { href: '/', name: 'Home' },
+    { href: 'https://joesmusings.com', name: 'Blog' },
   ],
 };
 
