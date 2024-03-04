@@ -9,7 +9,7 @@ tsconfig.tsbuildinfo
 .vscode/
 .idea/
 .canvas
--/
-2024/
-planning/
-canvas/
+content/-/
+content/2024/
+content/planning/
+content/canvas/
