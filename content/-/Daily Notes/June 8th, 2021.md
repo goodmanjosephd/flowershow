@@ -1,7 +1,0 @@
-- Daily
-    - [[Morning Pages]] {{word-count}}
-        - Good morning! Have a bit of a later start today, I'm feeling a bit tired but that's okay! At least I won't be tired all day like I was yesterday, I'm just in the process of waking up right now! 
-    - To-dos
-        - {{[[TODO]]}} Daily Highlight - 
-    - Ideas & Notes
-        - 
