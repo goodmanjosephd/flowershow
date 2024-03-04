@@ -12,8 +12,10 @@
 	- Main method I'll be starting out with is the 30 Day Japanese (UsagiSpoon) form TheMoeWay
 		- This expects 3 hours a day of practice, which definitely isn't in the cards for me, but I'll take it one step at a time
 	- I will track all of my time via toggl
+	- Starting immersion with Flying Witch - subtitle tutor method
+		- https://animelon.com/video/594e564622477e0e27f1f13d
 
-- Choosing animes to immerse ([source](https://www.youtube.com/watch?v=lktcZc9dYSI))
+- Other animes to immerse ([source](https://www.youtube.com/watch?v=lktcZc9dYSI))
 		- super basic: chibi maruko chan
 		- also pretty basic: nichijou
 		- cute love story: from me to you
@@ -22,6 +24,7 @@
 		- cafe: shirokuma cafe
 		- advanced:
 			- hetalia
+	- 
 
 ## Resources
 Genki:
