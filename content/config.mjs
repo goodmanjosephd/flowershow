@@ -1,4 +1,4 @@
-export const defaultConfig = {
+const config = {
   title: "Joe's Notes",
   description: "",
   showEditLink: false,
@@ -7,9 +7,9 @@ export const defaultConfig = {
   showLinkPreviews: true,
   author: "",
   authorLogo: "",
-  domain: "",
+  domain: "notes.joesmusings.com  ",
   // Google analytics key e.g. G-XXXX
-  analytics: "",
+  analytics: "G-JBTN66TFEH",
   // content source directory for markdown files
   // DO NOT CHANGE THIS VALUE
   // if you have your notes in another (external) directory,
@@ -30,3 +30,4 @@ export const defaultConfig = {
     { href: 'https://joesmusings.com', name: 'Blog' },
   ],
 };
+export default config;
