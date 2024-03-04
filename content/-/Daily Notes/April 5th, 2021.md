@@ -1,0 +1,10 @@
+- Journal
+    - Work
+        - 09:49 finally getting settled down to start really working. will be focusing on getting through emails first
+        - 11:00 got through emails and some miscellaneous stuff. should really work on content, but would rather work on prepping for the goals meeting today
+    - 
+- Ideas
+    - 
+- Content
+    - 
+- Shared
