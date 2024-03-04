@@ -9,6 +9,7 @@ const config = {
   showToc: true,
   showSidebar: true,
   showLinkPreviews: true,
+  showComments: true,
   author: "Joe",
   domain: "https://joesmusings.com",
   // Google analytics key e.g. G-XXXX
