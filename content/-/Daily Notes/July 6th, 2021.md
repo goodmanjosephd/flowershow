@@ -1,0 +1,6 @@
+- Journal
+    - Feeling a bit wild today, I feel like I have a million things that I want to do, and all of them make me feel a bit of pressure, but I feel like I'm being pulled in a million different  directions, so I'm just standing still. 
+    - I'm going to bring freedom to my life. I'm gonna create a plan and make it fucking happen. I'm deciding that today, I'm committing to this. I'll build a road map and get real
+        - I need to optimize work first. I think if I have time during the day to spend working on my side projects, that'd be awesome. 
+- Ideas & Notes
+    - 
