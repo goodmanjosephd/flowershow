@@ -1,33 +1,11 @@
 const config = {
   title: "Joe's Notes",
-  description: "",
-  showEditLink: false,
-  showToc: true,
-  showSidebar: true,
-  showLinkPreviews: true,
-  author: "",
-  authorLogo: "",
-  domain: "notes.joesmusings.com  ",
-  // Google analytics key e.g. G-XXXX
-  analytics: "G-JBTN66TFEH",
-  // content source directory for markdown files
-  // DO NOT CHANGE THIS VALUE
-  // if you have your notes in another (external) directory,
-  // /content dir should be a symlink to that directory
-  content: "content",
-  avatarPlaceholder: "/_flowershow/avatarplaceholder.png",
-  contentExclude: [],
-  contentInclude: [],
-  blogDir: "blog",
-  peopleDir: "people",
-  // Theme
-  theme: {
-    default: "dark",
-    toggleIcon: "/_flowershow/theme-button.svg",
-  },
-  navLinks: [
-    { href: '/index', name: 'Home' },
-    { href: 'https://joesmusings.com', name: 'Blog' },
-  ],
+  description: "This is my awesome blog built with Flowershow",
+  author: "Joe",
+  logo: "/images/logo.svg",
+  domain: "https://notes.joesmusings.com",
+  // links to the pages you want to link to in the navbar and in the footer
+  navLinks: [{ href: "/about", name: "About" }],
 };
-export config;
+
+export default config;
