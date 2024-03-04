@@ -1,0 +1,13 @@
+- Motivation
+    - Satisfaction of desires
+- Procrastination
+	- Most articles are just like "these 5 things will help" 
+	- However, that's like a doctor prescribing one medicine to all of her patients
+	- You need to know what kind of procrastination you're dealing with
+	- 3 main kinds
+		- [[Idealistic Procrastination (Perfectionism)]]
+		- [[Consequence & Avoidance Procrastination]]
+		- [[Operational Procrastination]]
+- How to find your purpose
+    - Write a page about what's wrong with the world
+    - Then, write what you can do about it
