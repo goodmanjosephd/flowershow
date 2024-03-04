@@ -1,0 +1,34 @@
+- Daily
+    - [[Morning Pages]] {{word-count}}
+        - Good morning! Trying my best to stay awake right now, just woke up and I'm feeling super tired.Just read for a little bit and I feel a bit more awake now! Now it's time to get to journaling! 
+        - I want to look up how to not be so tired. Maybe I just need to go to sleep a little bit earlier, stay off devices before bed. Also coffee in the morning may help! Whatever I do, I'd just like to have a more structured approach to my mornings. This week I'd like to journal every morning, Eventually I'd like to spend some time meditating too. I think traingin my brain to be in the present is super useful, especially for where I'm at right now. 
+        - Outside of that, I'd really like to start making progress on my goals. 
+            - Business
+                - Plan out the things that I can work on - Today
+                - Make small bits of progress every day
+            - Personal Brand
+                - Post 1 blog a week
+                    - Plan - Go through past blog posts, twitter threads, and ideas to write down a list of blog post ideas. (one that I've been thinking about is defining your expectations and operations for your productivity tools)
+                    - Outline
+                    - Write
+                    - Publish
+            - Self dev
+                - Read Daily
+                - Journal Daily
+                - Process notes daily
+            - Finances
+                - Load up Tiller HQ and categorize everything. 
+                - Try balancing out past stuff
+        - I think this would be a great starting point. Then on Sunday, I can review and see how I did. 
+        - 16:34 - 
+            - I've had a wildly unproductive day today. I've felt very distracted and tired all day unfortunately. I wonder if it's because I woke up and was so tired. 
+        - 19:22
+            - Hi there. I'm a bit overwhelmed right now. I have a ton of thoughts going on inside my head but don't really know what to do. I have a bunch of things that I'm thinking about from my performance at work to working on Automate Notion to learning how to code in order to build things in automate notion, to automations that I just want to build in Notion just because I think they'd be fun to do. On top of that I'm thinking about my own content and blog, how do I want to get back into creating content there? I'm just a bit overhwleemd by it all so I'm typing at the speed of light right now haha
+            - I just don't know what to do. I wish I had more time. I wish I didn't have to work anymore. I really want the freedom to be able to work on what I want to work on, and have that freedom where my income is separated from my time. I'm excited to do that and I want to start making bigger strides. I think I want to spend more time doing the things that'll move the needle with automate notion. I want to try to work on building and audience and building products for that audience. Why the hell not? It'l be fun!!
+            - As much as I try to hype myself up around it, I have a hard time getting started. I don't know why. I really want to take action on this but I feel like there's just some sort of barrier. Maybe I just need commit to doing something small. Instead of "Building an audience" I should really chop it down to something more manageable. I know right now I'm just writing out the things I can do, but I think that I should still try to find a weekly 
+    - Distraction Journal
+        - Did rent check clear? Can I pay off my CCs?
+    - To-dos
+        - {{[[TODO]]}} Daily Highlight - 
+    - Ideas & Notes
+        - 
