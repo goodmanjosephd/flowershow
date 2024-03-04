@@ -1,0 +1,7 @@
+- Daily
+    - [[Morning Pages]] {{word-count}}
+        - 
+    - To-dos
+        - {{[[TODO]]}} Daily Highlight - 
+    - Ideas & Notes
+        - 
