@@ -1,0 +1,15 @@
+- [[Perfectionism is fear]]
+- Lately I've been feeling imposter syndrome, and haven't too happy with what I've been outputting. 
+- Watched a video by Mayuko
+    - How I deal with [[Impostor Syndrome]] as a Software Engineer (yes I feel it too)
+        - https://www.youtube.com/watch?v=DYPdsCN69lc
+- Feeling Imposter Syndrome means that you're putting yourself in a place to grow 
+- [[Interstitial Journaling]] 
+    - https://nesslabs.com/interstitial-journaling
+- 
+- Journal
+    - 
+- Ideas
+    - 
+- Content
+    - 
