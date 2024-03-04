@@ -11,7 +11,7 @@ const config = {
   showLinkPreviews: true,
   showComments: true,
   author: "Joe",
-  domain: "https://joesmusings.com",
+  domain: "https://notes.joesmusings.com",
   // Google analytics key e.g. G-XXXX
   analytics: "G-JBTN66TFEH",
   // content source directory for markdown files
