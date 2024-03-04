@@ -1,0 +1,3 @@
+- Imposter syndrome
+    - It's when society sees you as higher than what you see yourself
+- 
