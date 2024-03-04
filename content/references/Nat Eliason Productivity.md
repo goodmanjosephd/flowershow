@@ -1,6 +1,4 @@
----
 
----
 # A minimalist set of apps for getting things done
 https://www.nateliason.com/blog/minimalist-apps-getting-things-done
 
