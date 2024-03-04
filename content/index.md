@@ -1,4 +1,3 @@
-[[Dr. K talks Meaning, Purpose, and Motivation]]
 Welcome to Joe's Knowledge base!
 
 # About Me
