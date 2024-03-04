@@ -1,0 +1,9 @@
+- Daily
+    - [[Morning Pages]] {{word-count}}
+        - 
+    - To-dos
+        - {{[[TODO]]}} Daily Highlight - 
+    - Ideas & Notes
+        - [[Why Potential is Paralyzing]]
+        - [[Competing Interests]]
+        - [[Video Game Addiction]]
