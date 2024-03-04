@@ -230,5 +230,5 @@ Daily System Implementation Guide
 1. evening review to plan tasks for tomorrow based on long term goals
 2. tag tasks based on time and priority - clear on flow of tasks
 3. plan your calendar, then adjust as the day goes on
-4. design a simple morning routine, <30mins, 2-3 habits to start your day with
+4. design a simple morning routine, < 30mins, 2-3 habits to start your day with
 5. segment calendar based on different activities, don't let activities slip into the wrong spot
