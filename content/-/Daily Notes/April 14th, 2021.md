@@ -1,0 +1,20 @@
+- Journal ([[Morning Pages]] and [[Goal Review]])
+    - Good morning! I plan on trying to start journaling with Roam a bit more. I know I very frequently flip back and forth, but I think It'll be useful to have my thoughts here on a daily basis for weekly reviews and unlinked mentions
+    - Speaking of weekly reviews, I think it'd be awesome to create a eekly review where I pull out the best insights that I've had that week. 
+    - I should start out small, and just get started. That's been the best way I've found to make something a bit more sustainable a
+- Ideas
+    - 
+- Content
+    - Solving Laziness with Asmongold 
+        - There are two different words for knowledge in sanskrit
+            - Nyan and Vidya
+                - Vidya is information. Transferable
+                - Nyan is an understanding. Emotional. Hard to transfer. Revelations
+        - You can understand the Vidya behind a thing as much as possible, but unless you get to Nyan, you won't take action on it. 
+        - You need the emotional revelations
+        - Simply thinking about your emotions won't trigger it
+        - You need to experience the enlightenment
+        - How do you help people experience these??
+            - Catalyzing revelations.
+- Shared
+    - 
