@@ -1,7 +1,3 @@
----
-dg-publish: true
-dg-home: true
----
 Welcome to Joe's Knowledge base!
 
 # About Me
