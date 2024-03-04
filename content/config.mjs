@@ -3,19 +3,15 @@
  */
 
 const config = {
-  title: "My Flowershow Site",
+  title: "Joe's Notes",
   description: "A beautiful site created with Flowershow, showcasing my portfolio.",
-  author: "Jane Doe",
-  domain: "https://janedoe.com",
-  logo: "/images/site-logo.svg",
+  author: "Joe",
+  domain: "https://notes.joesmusings.com",
   navbarTitle: {
     text: "Jane's Portfolio",
     logo: "/images/navbar-logo.svg",
   },
-  showComments: false, // Enable or disable comments site-wide.
-  analyticsConfig: {
-    googleAnalyticsKey: "UA-XXXXX-Y",
-  },
+  showComments: true, // Enable or disable comments site-wide.
   theme: {
     colorScheme: "light", // Or 'dark' if you prefer a dark theme.
     fontFamily: "Arial, sans-serif",
