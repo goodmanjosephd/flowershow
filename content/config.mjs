@@ -30,4 +30,4 @@ const config = {
     { href: 'https://joesmusings.com', name: 'Blog' },
   ],
 };
-export default config;
+export config;
