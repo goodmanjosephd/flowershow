@@ -1,8 +1,0 @@
-- Journal
-    - I don't really know what business I want to start. I have all of these different ideas, but I'm not sure which I should choose. 
-- Ideas
-    - 
-- Content
-    - 
-- Shared
-    - 
