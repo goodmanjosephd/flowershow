@@ -1,6 +1,7 @@
 ---
 
 ---
+# Inbox
 
 ```dataview 
 table 
