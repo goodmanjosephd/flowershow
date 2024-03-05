@@ -1,7 +1,7 @@
 ---
 
 ---
-
+# Using Things 3
 ## Curtis McHale
 - Uses tags for thisweek, nextweek, and thismonth
 - He'll then go through those and schedule "thisweek" tasks over the week, Mon-Fri
