@@ -10,3 +10,4 @@ type: Non-Fiction Book
 dateStarted:
 dateFinished:
 ---
+# How to Take Smart Notes
