@@ -4,6 +4,7 @@ status: To Process
 author: HealthyGamerGG
 type: Video
 ---
+# Dr. K talks Meaning, Purpose, and Motivation
 start- 24:07
 
 Post 1: there's no purpose/dharma strong enough to overcome suffering/dukkha
