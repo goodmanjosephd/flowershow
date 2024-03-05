@@ -1,7 +1,7 @@
 /**
  * @type {import("../config/siteConfig").UserConfig}
  */
-//start config
+
 const config = {
   title: "Joe's Notes",
   description: "",
