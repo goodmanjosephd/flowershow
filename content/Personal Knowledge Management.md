@@ -9,7 +9,7 @@
 	- Atlas - a place for all of my evergreen notes
 	 - Journal - my version of "calendar"
 	- Efforts - Houses projects for me to complete and plans of how I want to live my life
-- I'd
+
 
 # Questions
 
