@@ -7,6 +7,7 @@ type: Article
 url: https://tim.blog/2013/11/03/productivity-hacks/
 omnivore: https://omnivore.app/me/https-tim-blog-2013-11-03-productivity-hacks-18cd4e52829
 ---
+# -Productivity- Tricks for the Neurotic, Manic-Depressive, and Crazy (Like Me) - The Blog of Autho...
 
 
 > Most “superheroes” are nothing of the sort. They’re weird, neurotic creatures who do big things DESPITE lots of self-defeating habits and self-talk.
