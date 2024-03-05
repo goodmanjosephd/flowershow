@@ -7,6 +7,7 @@ type: Article
 url: https://jamesclear.com/3-2-1/september-14-2023
 omnivore: https://omnivore.app/me/3-2-1-how-to-do-hard-things-being-resourceful-and-the-value-of-s-18a94b098c3
 ---
+# 3-2-1- How to do hard things, being resourceful, and the value of simplicity
 
 
 > “Arguably the most important skill is controlling your attention. This goes beyond merely avoiding distractions. The deeper skill is finding the highest and best use for your time, given what is important to you. More than anything else, controlling your attention is about being able to figure out what you should be working on and identifying what truly moves the needle.” 
