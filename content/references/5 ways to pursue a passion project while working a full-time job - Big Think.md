@@ -7,6 +7,7 @@ type: Article
 url: https://bigthink.com/smart-skills/passion-project/
 omnivore: https://omnivore.app/me/5-ways-to-pursue-a-passion-project-while-working-a-full-time-job-18cf8a5b958
 ---
+# 5 ways to pursue a passion project while working a full-time job - Big Think
 > Create a morning routine 
 > for an example: Hendrick spends 30 minutes reading then another half hour working on a single step in business, like registering a domain name or starting a website.
 > - Danielle Sinay [(source)](https://bigthink.com/smart-skills/passion-project/) 
