@@ -1,6 +1,7 @@
 ---
 
 ---
+# productivity
 ## defining
 What is productivity?
 - The management, organization, and ability to do the things you want to do in a more efficient and effective manner
@@ -27,11 +28,9 @@ For instance, a lot of strategies fall into the bucket of "what should I be work
 
 Cal Newport uses a "plan.txt" file to make his plan for the week, in a free form method.
 
-# My Productivity System
+## My Productivity System
 
-
-
-## The tools I use
+### The tools I use
 
 Quick Capture: Apple Notes
 Read it later: Omnivore
