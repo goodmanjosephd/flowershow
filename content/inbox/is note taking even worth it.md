@@ -1,6 +1,7 @@
 ---
 
 ---
+# is note taking even worth it
 "The most effective readers and thinkers I know don’t take notes when reading" [Matuschak](https://notes.andymatuschak.org/z6GNVv6RyFDewy11ZgXzce8agWxSLwJ6Ub5Rw)
 	- "It’s not that they’ve so deeply internalized and automatized those practices that they seem invisible: they’re just not doing those things."
 		- "They read for a purpose"
