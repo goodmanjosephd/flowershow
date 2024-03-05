@@ -1,7 +1,7 @@
 /**
  * @type {import("../config/siteConfig").UserConfig}
  */
-
+//update
 const config = {
   title: "Joe's Notes",
   description: "",
