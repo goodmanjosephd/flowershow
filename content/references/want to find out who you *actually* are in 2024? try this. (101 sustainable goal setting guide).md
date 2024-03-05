@@ -6,7 +6,7 @@ status: To Read
 type: Video
 dateCreated:
 ---
-# want to find out who you *actually* are in 2024? try this. (101 sustainable goal setting guide)
+# want to find out who you actually are in 2024? try this. 101 sustainable goal setting guide
 
 
 - ideas
