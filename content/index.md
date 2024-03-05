@@ -1,7 +1,6 @@
-Welcome to Joe's Knowledge base!
+# index
 
-# About Me
-- What I'm Reading
+Welcome to Joe's Knowledge base!
 
 # Topics I'm Interested In
 - [[productivity]]
