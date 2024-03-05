@@ -4,6 +4,7 @@ author: David Perell
 status: To Read
 type: Article
 ---
+# David Perell's Writing Syllabus
 
 
 Howdy,
