@@ -322,6 +322,45 @@ moksha & meditation -
 2:18:00 - 2:28:00 Dr.K gives the roadmap of ohm chanting 
 
 
+do we have proof of the existance of thought?
+- no convincing answer that the answer is yes
+- we have implications of it, but no proof
+	- ex. eeg, fmri, pet scan
+		- then we correlate them with thought - "what are you thinking, what are you feeling?"
+		- there's activity in the amygdyla, what are you feeling? fear - that's how we know that it comes from there
+- but, there's a subjectivity that cannot be measured in  the physical form
+	- science has no way to measure thought
+- hard biologists say that thoughts don't exist - physically
+- once science failed to detect thought, we developed instruments in the physical dimension, 
+- but we stopped exploring thought
+	- what about the subjective experience? 
+	- we can't explore that physically, objectively, and scientifically
+	- what happens if you start exploring it?
+		- you have to be the one that explores it, a scientist can't do it for you
+		- you can apply the scientific method to internal, subjective experiences
+		- this is what happens in meditation
+		- moksha is about operating at this level
+
+- what is moksha? what is the point of, or the meaning of life?
+	- it doesn't have meaning
+	- finding meaning of life is only a problem if you're operating in the mind
+		- "what am i doing??"
+		- what happened if you only existed for a day?
+			- life just *is*
+			- meaning is something the human mind attaches to it
+				- the mind needs meaning
+			- meaning is looking at a cloud and seeing its a dog
+		- we're so fixated on operating within the mind because all of the technology we have is focused on that aspect
+			- measuring the dopamine, seratonin, reason, logic, etc.
+		- but there's a layer that is outside of mind
+			- just pure conciousness - attention
+				- when you start exploring this, you'll become content
+					- leads to sukh - annan - moksha
+				- this is the truest form of reality, everything else is less real
+					- then you're done with the cycle of liberation & stuff like that
+	- people that meditate are more content with their life
+	- 2:34:44
+
 
 
 
