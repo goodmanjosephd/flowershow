@@ -1,6 +1,0 @@
-- Daily
-    - [[Morning Pages]] {{word-count}}
-        - Good morning! This week is going to be very busy haha
-    - To-dos
-        - {{[[TODO]]}} Daily Highlight - 
-    - Ideas & Notes
