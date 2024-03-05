@@ -1,1 +1,0 @@
-- Don't be obsessed with finding the perfect niche. Just get out there and put something up. Give it a shot. If it doesn't work, then just make sure that you've learned something
