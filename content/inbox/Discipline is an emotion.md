@@ -1,6 +1,7 @@
 ---
 
 ---
+# Discipline is an emotion
 When people normally takl about discipline, then usually reach for either "willpower" or "habit." However, DR K posits that discipline is actaully an emoition. Take addictions, for example. Soemoen who is an addict needs discipline. But for them, they need emotional help through psychoterapy, not just more willpower. That's what gets them through it.
 
 
