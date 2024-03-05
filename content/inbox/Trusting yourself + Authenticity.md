@@ -1,6 +1,7 @@
 ---
 
 ---
+# Trusting yourself + Authenticity
 There are a couple of issues with the advice around "just be yourself" or "be authentic." Who are we? What is our authentic self?
 
 1. WE don't know. We don't know what our true unadulterated self is.
