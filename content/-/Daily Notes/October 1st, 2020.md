@@ -1,3 +1,0 @@
-- For my [[Blog]], and [[Personal Brand]] I should start with the questions I have, what would I want to read? Then take those, research it, maybe even read a book about it, and then create content from the notes that I take. I don't need to be perfect and have everything implemented, I can just share knowledge
-- #[[Quick Capture]]
-    - the crux of self development masturbation
