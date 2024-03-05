@@ -1,6 +1,8 @@
 ---
 
 ---
+# my tech stack
+
 - macOS
 	- email
 		- Edison Mail
