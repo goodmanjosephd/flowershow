@@ -8,6 +8,7 @@ author: John Oswald
 status: To Process
 type: Article
 ---
+# Why a solid ‘life operating system’ is key to success and happiness
 
 
 > very little time and effort is spent individually or in organizations to examine how we go about doing what we do. 
