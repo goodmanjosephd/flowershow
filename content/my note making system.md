@@ -1,6 +1,7 @@
 ---
 
 ---
+# my note making system
 - a place to capture my own ideas
 	- stored in /inbox
 		- however i also have others' thoughts in here right now
