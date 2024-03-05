@@ -1,5 +1,0 @@
-- Doing marketing automation for influencers to help them profit off of their stuff #[[Business Ideas]]
-- Help artists drop ship products #[[Business Ideas]]
-- 
-- Distraction Journal
-    - Start focusing on less time on social media and more time reading and consciously consuming content
