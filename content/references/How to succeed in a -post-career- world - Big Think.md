@@ -7,6 +7,7 @@ url: https://refind.com/r/149626929?context=2&fs=2&ptid=69845866&s=email-2402&t=
 omnivore: https://omnivore.app/me/https-refind-com-r-149626929-context-2-fs-2-ptid-69845866-s-emai-18bb3caecae
 type: Article
 ---
+# How to succeed in a -post-career- world - Big Think
 
 
 > I grew up watching Johnny Carson on _The Tonight Show_, and for 30 years, he would always walk out from behind a curtain and stand in one place. How did he know where to stand? There was a star on the ground.
