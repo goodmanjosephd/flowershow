@@ -7,7 +7,7 @@ type: Article
 dateCreated: 2024-02-13
 ---
 [link to emails](https://mail.google.com/mail/u/0/#advanced-search/subset=inbox&has=hello%40dailyproductivity.com&within=1d&sizeoperator=s_sl&sizeunit=s_smb&query=from%3A+hello%40dailyproductivity.com)
-# week 1
+# 30 Day Productivity Challenge
 
 ## day 2
 
