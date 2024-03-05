@@ -7,6 +7,7 @@ url: https://www.newyorker.com/culture/office-space/how-to-have-a-more-productiv
 omnivore: https://omnivore.app/me/how-to-have-a-more-productive-year-the-new-yorker-18d57a8d3a6
 type: Article
 ---
+# How to Have a More Productive Year - The New Yorker
 
 
 > An ordinary to-do list will quickly grow too crowded to serve as a useful planning tool. A more structured organizational scheme is required—one that reflects the actual complexity of work.
