@@ -7,6 +7,7 @@ omnivore: https://omnivore.app/me/why-i-refuse-to-track-how-many-books-i-ve-read
 status: To Process
 type: Article
 ---
+# Why I Refuse To Track How Many Books I've Read
 
 
 > Susan Sontag, in her book _On Photography_ [⤴️](https://omnivore.app/me/why-i-refuse-to-track-how-many-books-i-ve-read-18a8fc4514e#0164b65d-9456-4f6b-ba60-2b3b4a6aadcc) 
