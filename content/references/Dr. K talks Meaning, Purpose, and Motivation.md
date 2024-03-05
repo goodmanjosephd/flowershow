@@ -1,6 +1,6 @@
 ---
 url: https://www.youtube.com/watch?v=AiXiyLJz8-U
-status: Reading
+status: To Process
 author: HealthyGamerGG
 type: Video
 ---
@@ -359,7 +359,43 @@ do we have proof of the existance of thought?
 				- this is the truest form of reality, everything else is less real
 					- then you're done with the cycle of liberation & stuff like that
 	- people that meditate are more content with their life
-	- 2:34:44
+
+1 question - what are you willing to try to experience it?
+- its a long journey - not 8 weeks, not 8 months, but 20 years
+- there are people that commit all in
+	- specific diets, cultivating specifc gut microbiome, no psychoactive substances in order to get the state 
+		- avoiding tomatoes, eggplant, garlic, onions, feel sushumna less easily
+	- like body building without eating the protein requirement
+
+why should I?
+ - do you want to experience the ultimate reality?
+ - do you want to let your wants to control what you do 
+	 - true value
+	 - make a commitment, then start to follow along
+	 - makes everything else easier
+	- what will your willpower have to become in order to meditate for the next 7 years without any benefit?
+
+
+"should i do a different meditation?"
+- mind looking for the optimal
+- why?
+- what if one is better?
+- what is better?
+- get me there in 8 years instead of 10
+- still giving into the mind
+	- efiiciency
+	- optimization
+	- least amount of effort for most amount of gain
+	- great for the material world
+
+
+once you start meditating - pay attention to the signs
+- people will come out willing to help, you should accept and keep an eye out
+
+there are hundreds, thousands, if not millions of paths - you don't have to just chant ohm
+- ohm is just the simplest
+
+
 
 
 
