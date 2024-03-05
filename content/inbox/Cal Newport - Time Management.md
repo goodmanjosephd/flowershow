@@ -1,6 +1,7 @@
 ---
 
 ---
+# Cal Newport - Time Management
 - systems you use to figure out what to work on now
 - capture
 	- trusted place for ideas, tasks, etc to live
