@@ -8,6 +8,7 @@ author: Rebecca Jennings
 status: To Process
 type: Article
 ---
+# Want to sell a book or release an album- Better start a TikTok. - Vox
 
 
 > _The Death of the Artist: How Creators are Struggling to Survive in the Age of Billionaires and Big Tech._ 
