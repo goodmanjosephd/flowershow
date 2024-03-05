@@ -1,6 +1,7 @@
 ---
 
 ---
+# anti-creator
 - name ideas
 	- hobbyist creators
 
