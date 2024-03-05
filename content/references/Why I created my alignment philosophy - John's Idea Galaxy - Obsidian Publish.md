@@ -8,6 +8,7 @@ author:
 status: To Process
 type: Article
 ---
+# Why I created my alignment philosophy - John's Idea Galaxy - Obsidian Publish
 
 
 > What if we used Obsidian for more than just organizing knowledge? 
