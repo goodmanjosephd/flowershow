@@ -1,6 +1,7 @@
 ---
 
 ---
+# Strategies to do things
 
 
 Sometimes we feel down, like everything's too much. Here's my: [[Theory - How to get unstuck|Theory on how to get unstuck (In Progress)]]
