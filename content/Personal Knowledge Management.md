@@ -1,7 +1,7 @@
 ---
 
 ---
-# My system & tools
+# Personal Knowledge Management
 - I use [[Obsidian]]
 - My Folder structure:
 	- I use a variation of Nick Milo's ACE folder structure:
