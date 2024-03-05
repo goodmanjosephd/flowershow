@@ -1,6 +1,7 @@
 ---
 
 ---
+# Stop taking so much action
 inspired by: https://youtu.be/cdg4ga4rpqa
 also research: https://www.youtube.com/watch?v=jlJDcB5M9ds
 Study showing that people would prefer to shock themselves rather than doing nothing: https://www.science.org/doi/10.1126/science.1250830, which Andy Matushack summarized as "People prefer doing to thinking"
