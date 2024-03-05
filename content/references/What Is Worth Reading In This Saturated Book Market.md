@@ -7,6 +7,7 @@ url: https://amugofinsights.substack.com/p/what-is-worth-reading-in-this-saturat
 omnivore: https://omnivore.app/me/what-is-worth-reading-in-this-saturated-book-market-18a8fc403f8
 type: Article
 ---
+# What Is Worth Reading In This Saturated Book Market
 
 
 > My favourite pastime is to read biographies of my favourite philosophers and track down what they read when they were young and how those books influenced their thinking. For you, you can also look into the biographies of people you respect and extract their recommendations 
