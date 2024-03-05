@@ -1,6 +1,6 @@
 ---
 
 ---
-# How to find good books to read
+# Reading
 
 [goodbooks.io](https://www.goodbooks.io)
