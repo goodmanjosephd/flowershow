@@ -5,6 +5,7 @@ url: https://www.youtube.com/watch?v=CRD-mtBq0pM
 status: To Process
 type: Video
 ---
+# Joe Abercrombie and Brandon Sanderson Live Chat!
 - in order for a book to be good, you have to break all its bones and rebuild it
 - Sanderson loves the first draft process, thats why he's able to write so much. Its a slow and steady part, which keeps it enjoyable. But it can't be forces. With revisions, he's able to stick himself in a room for 10 hours stuck up to a deadline, using "the stick" Its a bright, fast burn with revision, but the process of writing the first draft can't be treated that way. it needs to be more flow like for him
 	- there was something related to this that i read recently, about how rewarding yourself for reading a chapter is bad, it's not enough. you need to enjoy doing the work for the work's sake
