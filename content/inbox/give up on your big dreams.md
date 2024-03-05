@@ -1,6 +1,7 @@
 ---
 
 ---
+# give up on your big dreams
 intrinsic motivation = enjoying the process
 focusing on your big dreams, externalizes and extrinsifies your motivation
 it creates a gap between where you are today and where you want to be
