@@ -1,6 +1,7 @@
 ---
 
 ---
+# Adding Friction to the Writing Process
 From "How John McPhee's Slow Writing Process Produced Deep Articles" by Cal Newport
 
 
