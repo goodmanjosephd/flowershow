@@ -4,6 +4,7 @@ author: David Perell
 status: To Process
 type: Article
 ---
+# David Perell's Writing One-Sheet
 
 ![[Writing One Sheet.pdf]]
 - **Writing One Sheet**
