@@ -8,6 +8,7 @@ author: Study Hacks
 status: To Process
 type: Article
 ---
+# Are You Effective or Just Busy- Calculate Your Churn Rate to Find Out - Cal Newport
 
 
 > It focused on a new numerical metric called the **churn rate**. The idea: list out the major projects on your short-term horizon. Then return, 3 -6 weeks later, to find out how many projects were completed. Divide the complicated projects by the days elapsed, multiply by 100, and you have a handy score capturing how effectively you complete things. 
