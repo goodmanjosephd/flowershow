@@ -1,10 +1,12 @@
 ---
 
 ---
+# Obsidian
+
 My tool of choice for [[Personal Knowledge Management]]
 
 
-# Resources
+
 https://bagerbach.com/blog/projects-and-goals-obsidian
 https://bagerbach.com/blog/weekly-review-obsidian
 https://www.youtube.com/@beingpax/videos
