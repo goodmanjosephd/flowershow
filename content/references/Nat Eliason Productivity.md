@@ -1,5 +1,5 @@
 
-# A minimalist set of apps for getting things done
+# Nat Eliason Productivity
 https://www.nateliason.com/blog/minimalist-apps-getting-things-done
 
 1. Overarching goals
