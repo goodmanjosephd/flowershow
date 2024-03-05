@@ -1,6 +1,7 @@
 ---
 
 ---
+# How to get the most out of a book
 RC Waldun
 1. markup your book to have a conversation with the autho
 2. sign posting - look for the main propositions or claims the author is making, the key arguments. unerline or tab the main points the author is making
