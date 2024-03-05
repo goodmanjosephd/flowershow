@@ -1,4 +1,4 @@
-  
+# learning japanese  
 ## My journey
 - Learning hiragana & katakana
 	- I started out with Tofugu's guide on learning hiragana and katakana. I probably took a little longer than most to get through them, but I had a really good feel for hiragana. Katakana, was a bit more iffy though
@@ -40,7 +40,7 @@ Reading practice
 - [**learn, japanese, easy / Crystal Hunters (Japanese)**](https://www.pixiv.net/en/artworks/80075613)
 - 
 
-# Level 1
+## Level 1
 Japanese ammo with misa
 - absolute beginner lesson playlist
 - Japanese vocab
