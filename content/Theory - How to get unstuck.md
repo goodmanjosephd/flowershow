@@ -2,6 +2,8 @@
 status: Outline
 
 ---
+# Theory - How to get unstuck
+
 *This is just a theory for right now, I'd love to actually try implementing it and see how it goes. Either that, or find more sources for the reasons behind it. But is this the type of content that I'd like to publish? Well if it works for me, I can document my experience*
 
 
