@@ -7,7 +7,7 @@ Welcome to Joe's Knowledge base!
 - [[Personal Knowledge Management]]
 	- Inputs: [[Reading]]
 	- Outputs: [[Writing]]
-- [[Meditation]]
+- [[meditation]]
 - Hobbies
 	- [[learning japanese]]
 
