@@ -5,7 +5,7 @@ Welcome to Joe's Knowledge base!
 # Topics I'm Interested In
 - [[productivity]]
 - [[Personal Knowledge Management]]
-	- Inputs: [[Reading]]
+	- Inputs: [[reading]]
 	- Outputs: [[Writing]]
 - [[meditation]]
 - Hobbies
