@@ -5,6 +5,10 @@ author: HealthyGamerGG
 type: Video
 ---
 # Dr. K talks Meaning, Purpose, and Motivation
+
+[[Dr. K Meaning & Purpose.canvas|Canvas]]
+
+
 start- 24:07
 
 Post 1: there's no purpose/dharma strong enough to overcome suffering/dukkha
@@ -79,15 +83,8 @@ how does dharma help suffering?
 - as you start to choose pleasure more and more, your life begins to feel more and more empty
 	- "i'm not doing anything with my life"
 - dharma doesn't reduce your suffering, it makes the suffering worthwhile
-
-- chatgpt summary
-	The essence of the notes revolves around the concepts of dukkha (suffering) and dharma (duty or moral righteousness) and their interplay in the context of human existence and spirituality. The notion is that there is no purpose or dharma robust enough to fully negate suffering. It suggests that truths, such as the fundamental aspects of physics or the shape of the Earth, do not require organizations to be sustained; they are self-evident through discovery and inquiry. This analogy extends to the understanding of dharma and dukkha, which traditionally come from experiential learning rather than formal education, much like learning to swim by getting into water rather than reading about it.
-	
-	Dukkha, defined as a "bad space" or discomfort, manifests in various forms, from the tangible, like a wobbly restaurant table, to the existential, such as feelings of guilt or addiction. It's highlighted that addiction is often a means to fill an internal void, an attempt to occupy the "bad space" within us.
-	
-	Dharma, on the other hand, is described as a principle of support or constancy, aiming for harmony in living. It's akin to the Greek concept of Telos, the fulfillment of purpose or function that defines goodness and virtue. The path to happiness is outlined in four steps: dharma (duty), artha (wealth), kama (pleasure), and moksha (liberation), with each addressing different facets of life's challenges. However, true satisfaction requires a holistic incorporation of these elements, with a significant emphasis on moksha for ultimate liberation.
-	
-	Dharma's role in addressing suffering is not to eliminate it but to make it a conscious choice, more bearable, or even desirable under certain circumstances. This choice often comes down to selecting between a painful option, which might be morally right or beneficial in the long term, and a pleasurable one, which is immediately gratifying but potentially harmful over time. The concept argues that while human nature tends to veer towards pleasure, an overemphasis on it can lead to a numbing of joy and a sense of emptiness. Dharma, through moral and ethical discipline, allows individuals to choose paths that are not solely based on immediate gratification but on long-term fulfillment and righteousness. This approach does not reduce suffering but makes it meaningful and worth experiencing, especially when aligned with higher purposes or duties that extend beyond personal gain or pleasure.
+---
+## canvas stopping point
 
 How to find purpose?
 
@@ -316,14 +313,49 @@ moksha & meditation -
 				- the first time is the easiest - no expectations of the mind
 				- the second is the hardest - the mind comes in - "that was so cool, lets do it again"
 					- when the mind becomes active from the expectations, then you can't transcend it
+
+
 - a practice to be done for a decade - twice a day for 20 minutes
 	- ohm chanting
 	- fully open mouth to fully closed mouth, exhaling through that
+	- the phases of ohm chanting
+		- 1. doing the practice
+			- making the sound
+			- doesn't have to be the whole time
+				- ex. yoga & nadi shuddhi
+				- surya namaskar 5 min
+				- nadi shudhi 5 min
+				- ohm chanting 10 min
+		- 2. pay attention to vibration
+			- maximize vibration
+			- feel the vibration in your body
+				- feeling, not sound
+		- 3. notice localization of vibration
+			- ahh - maximal around naval
+			- hhhh - throat & chest
+			- mmm - between chin and top of head
+			- ascending vibration from naval to top of head
+		- 4. focusing on movement of vibration throughout the above
+		- 5. lurchy/not smooth - feels off
+			- make the perfect vibration - very difficult (might take many months)
+			- each part of the ohm, the virbation to be smooth, without a jerk
+			- ex. 
+				- locked jaw will cause a stutter, requires relaxation of the jaw
+				- even seconds for each - a, u, m
+				- right level of silence between rounds
+		- 6. decrease volume and vibration
+			- as you do the vibration, you will notice something else
+			- notice that there's something else you're feeling - not vibratory
+				- vibration foes up
+				- but there's this column within you, but its just a feeling
+				- in order to enhance the sensation of the column, the vibration interferes with your perception of the column
+			- this column is the sushumna
+				- you'll notice upward energy, but its not physical
+			- virbation will start at the front of your body, but the more quiet you make it, the more you'll detect sushumna in the back body
+		- 7. notice sushumna
+		- 8. notice upward current through sushumna (1-3 years at least)
 
-2:18:00 - 2:28:00 Dr.K gives the roadmap of ohm chanting 
-
-
-do we have proof of the existance of thought?
+do we have proof of the existence of thought?
 - no convincing answer that the answer is yes
 - we have implications of it, but no proof
 	- ex. eeg, fmri, pet scan
