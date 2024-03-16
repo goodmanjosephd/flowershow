@@ -1,4 +1,5 @@
 ---
+layout: reference
 url: https://www.youtube.com/watch?v=AiXiyLJz8-U
 status: To Process
 author: HealthyGamerGG
@@ -83,8 +84,7 @@ how does dharma help suffering?
 - as you start to choose pleasure more and more, your life begins to feel more and more empty
 	- "i'm not doing anything with my life"
 - dharma doesn't reduce your suffering, it makes the suffering worthwhile
----
-## canvas stopping point
+
 
 How to find purpose?
 
@@ -114,7 +114,7 @@ How to find purpose?
 				- where does 'enough' come from?
 					- the ratio of today's action to your goal
 					- the bigger your dreams, the less 'enough' a given task will be
-	- when you stop focusing on those big goals, or moreso how people percieve you as having those big goals,  you get to start focusing on the work
+		- when you stop focusing on those big goals, or moreso how people percieve you as having those big goals,  you get to start focusing on the work
 - dharma is not about the big Purpose, its about creating harmony between you and the life around you
 	- emptying the trash can
 	- adding a serving of fruit or veg
@@ -129,7 +129,7 @@ how to find your dharma
 	- the more time we spend externalizing our attention, "our mind is not with us anymore"
 		- in order to be efficient, we're listening to a podcast, watching a video, etc. while we're doing something else
 		- constant externalization of attention, in the guise of productivity
-	- as you spend more time outside yourself, you lose your connectino with yourself
+	- as you spend more time outside yourself, you lose your connection with yourself
 		- as this happens, you wake up, and ask yourself "what should i do?"
 			- we can get the answer from one of two places
 				- inside
@@ -137,6 +137,7 @@ how to find your dharma
 					- the more you look here, the more friction you create
 						- "you should be this, here's how to do this"
 						- there's always going to be a discrepancy between what the world tells you and what you actually want
+							- *and there's always going to be a discrepancy between where you are and where you want to get to, and the path that the other person took* 
 					- as you externalize, the internal mind gets pilled up with crap
 						- procastination -> guilt -> feeling behind -> insecurity 
 						- as you feel worse about yourself, spending time with yourself become difficult
@@ -148,7 +149,7 @@ how to find your dharma
 								- and they all pull in different directions
 									- try an instrument, try painting, saving up for a surgery
 									- and even if you do check all of these boxes, it ends up not being enough - insufficient
-							- we have no internal compass, it leads to an adharmic lifestyle 
+							- we have no internal compass, it leads to an adharmic lifestyle
 								- any given day, doing something random that we think is the right thing to do 
 							- everything about you is unique, so how are you going to find an answer from a guru on the internet?
 		- boredom - what is it?
@@ -158,6 +159,9 @@ how to find your dharma
 			- the world can't tell you what you want
 		- take care of your body
 		- go for walkies
+
+---
+## processing v
 
 your dharma is waiting for you
 - dr.k is 100% confident in, but isn't scientifically validated
