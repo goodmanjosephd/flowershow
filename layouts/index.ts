@@ -4,7 +4,7 @@ import {
   UnstyledLayout,
   BlogLayout,
 } from "@portaljs/core";
-import SourceLayout from "./SourceLayout.tsx"
+import SourceLayout from "./SourceLayout"
 
 export default {
   simple: SimpleLayout,
