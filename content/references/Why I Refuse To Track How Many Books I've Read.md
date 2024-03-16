@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 id: c243ae62-279d-49dc-a950-f6cc49173d06
 url: https://amugofinsights.substack.com/p/why-i-refuse-to-track-how-many-books
