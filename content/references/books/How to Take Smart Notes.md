@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 title: How to Take Smart Notes
 author: Sönke Ahrens
