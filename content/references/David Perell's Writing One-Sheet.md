@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 author: David Perell
 status: To Process
