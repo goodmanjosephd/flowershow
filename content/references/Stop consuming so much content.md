@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 type: Article
 status: To Read
