@@ -1,3 +1,6 @@
+---
+layout: reference
+---
 
 # Nat Eliason Productivity
 https://www.nateliason.com/blog/minimalist-apps-getting-things-done
