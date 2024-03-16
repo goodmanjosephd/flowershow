@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 author: Cal Newport
 status: To Process
