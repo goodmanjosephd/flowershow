@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 title: Feel-Good Productivity
 author: Ali Abdaal
