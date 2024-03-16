@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 title: Worry-Free Money
 author: Shannon Lee Simmons
