@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 id: 6a051247-6b34-43bb-a0c3-ef0973b70000
 author: Cal Newport
