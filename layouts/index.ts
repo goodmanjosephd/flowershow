@@ -4,12 +4,12 @@ import {
   UnstyledLayout,
   BlogLayout,
 } from "@portaljs/core";
-import SourceLayout from "./SourceLayout";
+import SourceLayout from "./SourceLayout.tsx"
 
 export default {
   simple: SimpleLayout,
   docs: DocsLayout,
   unstyled: UnstyledLayout,
   blog: BlogLayout,
-  references: SourceLayout,
+  reference: SourceLayout,
 };
