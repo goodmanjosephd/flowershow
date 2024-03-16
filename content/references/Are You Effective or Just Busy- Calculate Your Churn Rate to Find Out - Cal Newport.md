@@ -1,5 +1,5 @@
 ---
-
+layout: reference
 dateCreated: 2024-02-23 18:55:03
 id: 5b1fc0f0-f5ec-4610-867d-75df26a90e90
 omnivore: https://omnivore.app/me/https-calnewport-com-are-you-effective-or-just-busy-calculate-yo-18dd8649a1a
