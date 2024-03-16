@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 author: Daniel Greene
 url: https://www.youtube.com/watch?v=CRD-mtBq0pM
