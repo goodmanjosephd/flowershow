@@ -1,5 +1,5 @@
 ---
-
+layout: reference
 author: David Perell
 status: To Read
 type: Article
