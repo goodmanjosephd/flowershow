@@ -1,4 +1,5 @@
 ---
+layout: reference
 url: https://www.youtube.com/watch?v=BSrymhSn6I8
 status: To Read
 author: HealthyGamerGG
