@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 ---
 # Andys Note Taking
