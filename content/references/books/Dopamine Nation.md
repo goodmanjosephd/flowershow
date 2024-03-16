@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 title: Dopamine Nation
 author: Dr. Anna Lembke
