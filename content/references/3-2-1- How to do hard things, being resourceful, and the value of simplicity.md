@@ -1,5 +1,5 @@
 ---
-
+layout: reference
 id: 2969feb0-b11f-45f3-9417-0b8fece22be1
 author: James Clear
 status: To Process
