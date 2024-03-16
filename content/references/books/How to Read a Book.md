@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 title: How to Read a Book
 author: Mortimer J. Adler, Charles Van Doren
