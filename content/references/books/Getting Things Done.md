@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 title: Getting Things Done
 author: David Allen
