@@ -1,4 +1,5 @@
 ---
+layout: reference
 
 title: Four Thousand Weeks
 author: Oliver Burkeman
