@@ -1,5 +1,5 @@
 ---
-
+layout: reference
 author: Ali Abdaal
 url: 
 status: To Read
